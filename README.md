@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 -  samuelrosen121@gmail.com
 -  https://www.linkedin.com/in/samuel-ros%C3%A9n-9b902122a/
+-  Have a good day!
 
 <!---
 samuelrosen111/samuelrosen111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
