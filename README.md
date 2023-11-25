@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @samuelrosen111
 - 👀 I’m mostly interested in Engineering and Physics (that's why i'm studying Engineering Physics).
-- 🌱 I’m currently doing my masters thesis 
 - 📫 How to reach me:
 -  samuelrosen121@gmail.com
 -  https://www.linkedin.com/in/samuel-ros%C3%A9n-9b902122a/
